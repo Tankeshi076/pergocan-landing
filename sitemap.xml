@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://pergocan.netlify.app/</loc>
+  </url>
+
+  <!-- Hub Miguel Hidalgo -->
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/</loc>
+  </url>
+
+  <!-- Colonias Miguel Hidalgo -->
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/polanco/</loc>
+  </url>
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/anzures/</loc>
+  </url>
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/lomas-de-chapultepec/</loc>
+  </url>
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/irrigacion/</loc>
+  </url>
+  <url>
+    <loc>https://pergocan.netlify.app/cdmx/miguel-hidalgo/san-miguel-chapultepec/</loc>
+  </url>
+
+</urlset>
